@@ -282,11 +282,12 @@ p{
     background-position: center;
     background-size: cover;
     text-align: center;
-    color:#fff;
+   
 }
 
 .subheader h1{
     margin-top: 100px;
+    color:#fff;
 }
 .about-us{
     width:90%;
@@ -315,6 +316,77 @@ p{
 }
 .redbtn:hover{
     color:#fff;
+}
+/* -------Blog page------ */
+.blog-content{
+    width:90%;
+    margin:auto;
+    padding:65px,0;
+}
+.blog_left{
+    flex-basis: 65%;
+}
+.blog_left img{
+    width:100%;
+}
+.blog_left h2{
+    font-weight: 600;
+    margin:30px 0;
+}
+.blog_left p{
+    color:#999;
+    padding:0;
+}
+.blog_right{
+    flex-basis: 32%;
+ 
+}
+.blog_right h3{
+    background:#f44336;
+    color:#fff;
+    padding:7px;
+    font-size:16px ;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.blog_right div{
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:#555;
+    padding:8px;
+    box-sizing: border-box;
+}
+.comment-box{
+    border:1px solid #ccc;
+    margin:50px 0;
+    padding:10px 20px;
+}
+.comment-box{
+    text-align: left;
+}
+.comment-form input, .comment-form textarea{
+width:100%;
+padding: 10px;
+margin:15px 0;
+box-sizing: border-box;
+border:none;
+outline:none;
+background: #f0f0f0;
+}
+.comment-form button{
+    margin-top: 10px 0;;
+}
+
+/* ----Contact Us page---- */
+.location{
+    width:90%;
+    margin:auto;
+    padding:80px 0;
+}
+.location iframe{
+    width: 100%;
 }
 /*------------------media Quary for responsive---------------- */
 @media(max-width:700px){
@@ -384,4 +456,8 @@ p{
 .cta h1{
     font-size: 20px;
 } 
+/* blog page */
+.subheader h1{
+    font-size: 24px;
+}
 }
