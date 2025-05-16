@@ -4,7 +4,7 @@ A clean, responsive website made with **HTML** and **CSS** for an educational in
 
 ## 🌍 Live Preview
 
-[👉 Check it Out](https://parthx-23.github.io/tapasvi)  
+[👉 Check it Out](https://parthaG23.github.io/tapasvi)  
 *(Update this with your actual live link if hosted on GitHub Pages, Netlify, etc.)*
 
 ## 📖 About the Project
