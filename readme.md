@@ -1,49 +1,53 @@
-# 🏫 Tapasvi Educational Website
+<div align="center">
 
-A clean, responsive website made with **HTML** and **CSS** for an educational institute named **Tapasvi**. This project is ideal for showcasing your frontend development skills and creating a static website for schools, coaching centers, or learning platforms.
+# 🎓 Tapasvi Academy
 
-## 🌍 Live Preview
+### Multipage Educational Institution Web Portal
 
-[👉 Check it Out](https://parthaG23.github.io/tapasvi)  
-*(Update this with your actual live link if hosted on GitHub Pages, Netlify, etc.)*
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Tapasvi_Academy-6366f1?style=for-the-badge)](https://parthag23.github.io/tapasvi/)
+[![HTML5](https://img.shields.io/badge/HTML5-Layout-E34F26?style=flat-square&logo=html5)](https://w3.org)
+[![CSS3](https://img.shields.io/badge/CSS3-Design-1572B6?style=flat-square&logo=css3)](https://w3.org)
+[![JS](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript)](https://developer.mozilla.org)
 
-## 📖 About the Project
+**Tapasvi Academy** is a comprehensive multi-page portal design template for educational academies, schools, or online courses. Built using vanilla web technologies, it features dedicated catalog sections, responsive grids, user registration portals, and clean contact channels.
 
-This is a static website designed to represent an educational institution. It includes pages like:
+*Multi-page Template (About, Course, Blog, Contact) · CSS Hero Banners · Clean Grid Alignment*
 
-- **Home** – Welcome message and highlights
-- **About** – Information about the institute
-- **Courses** – List of programs offered
-- **Contact** – Simple contact form and location
+</div>
 
-It focuses on clean design, responsive layout, and simple structure — no JavaScript or backend.
+---
 
-## 🛠 Technologies Used
+## ✨ Key Features
 
-- HTML5  
-- CSS3  
-- Responsive design using Flexbox & Media Queries  
-- Google Fonts  
-- Font Awesome (for icons, optional)
+| Feature | Description |
+|---------|-------------|
+| 📚 **Complete Curriculum Pages** | Distinct sub-pages detailing academic streams, fees, and course lists. |
+| ✍️ **Blog & News Template** | Formatted publishing feeds for updates and campus articles. |
+| 📍 **Contact Integration** | Dedicated contact form and embedded interactive map placements. |
+| 📱 **Responsive Grid** | Scalable design that works on mobile, tablet, and desktop views. |
 
-## 🗂 Project Structure
+---
 
-tapasvi-educational-website/
-│
-├── index.html
-├── about.html
-├── courses.html
-├── contact.html
-├── css/
-│ └── style.css
-├── images/
-│ └── (all image files)
-├── screenshots/
-│ └── (for README preview)
-└── README.md
+## 📂 Design Structure
 
-## 💡 How to Use
+* `index.html` - Home portal landing page with featured categories.
+* `course.html` - Curriculums and academic listings.
+* `about.html` - Institution biography and credentials.
+* `Blog.html` - Interactive blog layouts and posts.
+* `Contact.html` - Registration forms and query portals.
+* `style.css` - Integrated theme styles, button properties, and layout controls.
 
-1. Clone the project:
-   ```bash
-   git clone https://github.com/your-username/tapasvi-educational-website.git
+---
+
+## 🧑‍💻 Author
+
+**Partha Gayen**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ParthaG23-181717?style=flat-square&logo=github)](https://github.com/ParthaG23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Partha_Gayen-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/partha-gayen)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
